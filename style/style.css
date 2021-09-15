@@ -79,3 +79,31 @@ padding: 15px;
 .icon{
     text-align: center;
 }
+
+/*--------------
+ Media Query 
+ ---------------*/
+ /* pore 
+ @media only screen and (max-width: 688px) {
+    .copa{
+        width: 100%;
+
+    }
+    .copa-1st{
+        width: 100%;  
+        display: flex;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .copa-title{
+        font-size: 36px;
+    }
+    .player{
+        grid-template-columns: repeat(1, 1fr);
+        padding: 10%;
+    }
+    .football img{
+        width: 170px;
+        height: 32px;
+        align-items: center;
+    }
+} */
